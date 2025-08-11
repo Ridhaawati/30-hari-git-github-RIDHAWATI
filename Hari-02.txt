@@ -1,0 +1,1 @@
+Git init adlah suatu kalimat untuk membuka file tersembunyi yg ada di folder, nah folder yg dihasilkan akan muncul .git yg tidak boleh di otak atik. S
