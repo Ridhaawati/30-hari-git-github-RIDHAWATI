@@ -1,0 +1,5 @@
+PS C:\Users\Pengguna\Documents\30-hari-git-github-RIDHAWATI> git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        Hari-04.txt
