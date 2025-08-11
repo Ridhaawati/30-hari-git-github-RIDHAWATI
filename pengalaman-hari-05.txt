@@ -1,0 +1,11 @@
+Hari ini saya mempraktikkan perintah git restore untuk membatalkan perubahan yang belum di-add ke Staging Area. Awalnya, saya membuat file hari-05.txt berisi teks "Ini teks yang benar" dan melakukan add serta commit. Setelah itu, saya mengubah isinya menjadi "Ini teks yang salah", lalu menjalankan git status untuk melihat bahwa file tersebut berstatus modified.
+
+Kemudian saya menggunakan perintah:
+
+nginx
+Salin
+Edit
+git restore hari-05.txt
+Hasilnya, isi file langsung kembali ke versi yang terakhir saya commit, yaitu "Ini teks yang benar".
+
+Dari percobaan ini saya belajar bahwa git restore sangat berguna untuk membatalkan perubahan yang keliru sebelum masuk ke Staging Area, tanpa perlu mengingat atau mengembalikan editan secara manual. Fitur ini membantu menjaga file tetap sesuai dengan versi commit terakhir dan menghindari kesalahan yang tidak diinginkan.
