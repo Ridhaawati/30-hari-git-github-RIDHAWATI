@@ -1,0 +1,12 @@
+PS C:\Users\Pengguna\Documents\30-hari-git-github-RIDHAWATI> git log
+commit ddaaadd7740398c2ce1931b541ba9da7f76e9364 (HEAD -> master)
+Author: Ridhaawati <idhawati487@gmail.com>
+Date:   Mon Aug 11 10:28:10 2025 +0800
+
+    Menambahkan status repositori ke file hari-04.txt
+
+commit 6b580922333548d634fef6485236355cac0b0521
+Author: Ridhaawati <idhawati487@gmail.com>
+Date:   Mon Aug 11 10:19:07 2025 +0800
+
+    Commit pertama: Inisialisasi proyek dan tugas hari 1 & 2
