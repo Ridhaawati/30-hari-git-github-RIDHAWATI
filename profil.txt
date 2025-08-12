@@ -1,1 +1,4 @@
-Nama: idha keren, Hobi: Memasak
+ HEAD
+Nama: idha keren(programmer), Hobi: Memasak
+Nama: idha programmer, Hobi: Memasak
+ eksperimen-konflik
