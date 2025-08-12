@@ -1,0 +1,79 @@
+[33mcommit 2089fb32197bdae822617d01a8cc466a2d610b6a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mfitur-profil[m[33m)[m
+Author: Ridhaawati <idhawati487@gmail.com>
+Date:   Tue Aug 12 11:45:36 2025 +0800
+
+    feat: Menambahkan file profil dengan nama dan hobi
+
+[33mcommit ee32dc1249dd6888f6d31a077ef8446f89641fe4[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ridhaawati <idhawati487@gmail.com>
+Date:   Mon Aug 11 15:33:10 2025 +0800
+
+    build: Menambahkan .gitignore untuk mengabaikan file rahasia
+
+[33mcommit 8a0bd6bef55f8370b34c79866e477bfab121e1ab[m
+Author: Ridhaawati <idhawati487@gmail.com>
+Date:   Mon Aug 11 15:18:08 2025 +0800
+
+    feat: Menambahkan file konfirmasi pull
+
+[33mcommit 691327fd6d43f45c5c7523c7b887739624f83417[m
+Author: Ridhawati <idhawati487@gmail.com>
+Date:   Mon Aug 11 15:06:29 2025 +0800
+
+    Update Resep-nasi-goreng.txt
+    
+    docs: Menambahkan catatan pada resep
+
+[33mcommit 7bd5c2fec6f9fcc8f542475d1f801a9d53cd3947[m
+Author: Ridhaawati <idhawati487@gmail.com>
+Date:   Mon Aug 11 14:55:37 2025 +0800
+
+    feat: Menambahkan file verifikasi kloning
+
+[33mcommit 2bc805f4fa3376ec4e66a756f1120fa5fdaede0a[m
+Author: Ridhaawati <idhawati487@gmail.com>
+Date:   Mon Aug 11 11:24:41 2025 +0800
+
+    feat: Menambahkan langkah-langkah memasak
+
+[33mcommit 474a4d7662eea6b689f06d0594816cebb4ed7505[m
+Author: Ridhaawati <idhawati487@gmail.com>
+Date:   Mon Aug 11 11:23:50 2025 +0800
+
+    feat: Menambahkan daftar bahan-bahan
+
+[33mcommit bd3af91f8cc3554480350cc187f55e127e22b329[m
+Author: Ridhaawati <idhawati487@gmail.com>
+Date:   Mon Aug 11 11:22:24 2025 +0800
+
+    docs: Menambahkan judul dan deskripsi resep
+
+[33mcommit a757370bcefa0d0a82d7471ffb818e623cb6e820[m
+Author: Ridhaawati <idhawati487@gmail.com>
+Date:   Mon Aug 11 10:54:45 2025 +0800
+
+    Menambahkan file pengalaman-hari-05.txt
+
+[33mcommit 83186a58b599f60a1efe4420ecf096fa0089efd3[m
+Author: Ridhaawati <idhawati487@gmail.com>
+Date:   Mon Aug 11 10:40:37 2025 +0800
+
+    Menambahkan file hari-05 dengan teks yang benar
+
+[33mcommit 6344f12b9e5b0ab18518a4e2e81361ef66aaf240[m
+Author: Ridhaawati <idhawati487@gmail.com>
+Date:   Mon Aug 11 10:30:23 2025 +0800
+
+    Menambahkan riwayat log ke file terpisah
+
+[33mcommit ddaaadd7740398c2ce1931b541ba9da7f76e9364[m
+Author: Ridhaawati <idhawati487@gmail.com>
+Date:   Mon Aug 11 10:28:10 2025 +0800
+
+    Menambahkan status repositori ke file hari-04.txt
+
+[33mcommit 6b580922333548d634fef6485236355cac0b0521[m
+Author: Ridhaawati <idhawati487@gmail.com>
+Date:   Mon Aug 11 10:19:07 2025 +0800
+
+    Commit pertama: Inisialisasi proyek dan tugas hari 1 & 2
